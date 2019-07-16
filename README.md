@@ -4,7 +4,6 @@ This repository contains a simple example of how to implement JWT (JSON Web Toke
 
 ## Languages
 - [PT-BR](./docs/PT-BR.md)
-- [EN]()
 
 ## Tools and Technologies
 
