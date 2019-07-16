@@ -1,5 +1,7 @@
 # aspnetcore-jwt-authentication-api
 
+ASP.NET Core 2.2 - JWT Authentication API
+
 This repository contains a simple example of how to implement JWT (JSON Web Token) in an ASP.NET Core 2.2 API with C#.
 
 ###### I'll try to keep this repository with the latest changes, so stay tuned.
