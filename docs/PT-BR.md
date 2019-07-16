@@ -2,7 +2,7 @@
 
 Este repositório existe um simples exemplo de como implementar JWT (JSON Web Token) em uma API do ASP.NET Core 2.2 com C#.
 
-##### Eu vou tentar estar sempre atualizando esse repositório com novas versões, então fica ligado.
+###### Eu vou tentar estar sempre atualizando esse repositório com novas versões, então fica ligado.
 
 ## Ferramentas e Tecnologias
 
