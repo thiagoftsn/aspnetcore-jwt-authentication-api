@@ -10,6 +10,7 @@ Para o desenvolvimento da API foi utilizado somente as seguintes ferramentas e t
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [JWT](https://jwt.io/)
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 ## Visão Geral
 
