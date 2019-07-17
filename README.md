@@ -1,5 +1,8 @@
 # aspnetcore-jwt-authentication-api
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2c33b21c26be48ca81cebdb623a3c5de)](https://app.codacy.com/app/Thiagoftsn/aspnetcore-jwt-authentication-api?utm_source=github.com&utm_medium=referral&utm_content=thiagoftsn/aspnetcore-jwt-authentication-api&utm_campaign=Badge_Grade_Dashboard)
+
+
 ASP.NET Core 2.2 - JWT Authentication API
 
 This repository contains a simple example of how to implement JWT (JSON Web Token) in an ASP.NET Core 2.2 API with C#.
